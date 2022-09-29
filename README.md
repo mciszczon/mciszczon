@@ -1,18 +1,26 @@
-# 👋 Hi, I’m @mciszczon
+# Hi, I’m @mciszczon 👋
 
-I'm currently working as a Software Engineer at [Wix.com](https://wix.com).
+[LinkedIn](https://linkedin.com/in/mciszczon) / [Twitter](https://twitter.com/mciszczon)
 
-I'm also a Lead Developer of [Rabona.io](https://rabona.io) (an online football manager built on top of Hive blockchain).
+> I'm an all-around Full Stack Developer with creative and analytical mind.
+> 
+> I like to solve complex problems with neat & simple way.
 
-- Python w/ FastAPI, Django, Celery
-- SQL DBs, KV DBs
-- JS with React
-- HTML&CSS
+## 🤠 Current adventures
 
-👀 I’m interested in Python, JS, Blockchain & Cryptocurrencies.
+- Full Stack Engineer at [FLYR Labs](https://flyrlabs.com)
+- Project Development Manager at [ESTAR Games](https://estar.games/)
 
-🌱 I’m currently learning Infrastructure (DBs, Servers, Terraform).
+## 👍🏻 What I enjoy
 
-💞️ I’m looking to collaborate on bleeding edge projects in Blockchain sphere.
+- Backend development with Python and Node.js
+- Frontend development with React
+- Automatization & tooling
+- Project Management
+- Process Refinement
 
-📫 How to reach me: [LinkedIn](https://linkedin.com/in/mciszczon) / [Twitter](https://twitter.com/mciszczon) / [Hive](https://ecency.com/@mciszczon) / [Inji](https://inji.com/@mciszczon)
+## 👀 Interests
+
+- Blockchain & cryptocurrencies
+- Music
+- Gardening
