@@ -10,6 +10,7 @@
 
 - Full Stack Engineer at [FLYR Labs](https://flyrlabs.com)
 - Project Development Manager at [ESTAR Games](https://estar.games/)
+- Founder at [Instytut Fi](https://github.com/instytutfi)
 
 ## 👍🏻 What I enjoy
 
