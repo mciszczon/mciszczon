@@ -2,9 +2,7 @@
 
 [LinkedIn](https://linkedin.com/in/mciszczon) / [Twitter](https://twitter.com/mciszczon)
 
-> I'm an all-around Full Stack Developer with creative and analytical mind.
-> 
-> I like to solve complex problems with neat & simple way.
+> I'm an all-around Full Stack Developer with creative and analytical mind. I like to solve complex problems in a neat & simple way.
 
 ## 🤠 Current adventures
 
