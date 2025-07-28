@@ -6,14 +6,16 @@
 
 ## 🤠 Current adventures
 
-- Founder — [Instytut Fi](https://github.com/instytutfi)
+– Co-founder & CTO • [Tesserakt](https://tesserakt.dev)
+- Founder • [Instytut Fi](https://github.com/instytutfi)
+- TypeScript Developer • [ASCO](https://asco.com.pl)
 
 ## 🕙 Past adventures
 
-- Full Stack Engineer — [FLYR](https://flyr.com/)
-- Software Engineer — [Wix](https://wix.com/)
-- Full Stack Developer — [Infinite Loop](https://infiniteloop.eu/)
-- Project Development Manager — [ESTAR Games](https://estar.games/)
+- Full Stack Engineer • [FLYR](https://flyr.com/)
+- Software Engineer • [Wix](https://wix.com/)
+- Full Stack Developer • [Infinite Loop](https://infiniteloop.eu/)
+- Project Development Manager • [ESTAR Games](https://estar.games/)
 
 ## 👍🏻 What I enjoy
 
