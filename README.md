@@ -6,7 +6,7 @@
 
 ## 🤠 Current adventures
 
-– Co-founder & CTO • [Tesserakt](https://tesserakt.dev)
+- Co-founder & CTO • [Tesserakt](https://tesserakt.dev)
 - Founder • [Instytut Fi](https://github.com/instytutfi)
 - TypeScript Developer • [ASCO](https://asco.com.pl)
 
